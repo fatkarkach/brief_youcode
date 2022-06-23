@@ -1,0 +1,42 @@
+.t_c{
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+}
+#button_sub{
+    background-color: bisque; /* Green */
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;
+    color: black;
+    border: 2px solid black;
+    border-radius: 8px;
+    width: fit-content;
+}
+.div_textarea{
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+}
+textarea{
+    margin-left: 6px;}
+
+form{
+    box-shadow: 6px 6px darkgrey;
+    border-radius: 14px;
+    background-color: white;
+    padding: 30px;
+    margin-top: 70px;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#note{
+    width: 30% !important;
+    text-align: center !important;
+}

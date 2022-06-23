@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="35a301c5-c5eb-479e-b2f0-287d4c572116" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../TP_PHP/TP_1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gestion_vols/passager.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gestion_vols/reservation.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gestion_vols/script.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gestion_vols/utilisateurs.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gestion_vols/vols.sql" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="29nk21OhPtFwmv5GoMq0SKHt0bw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="35a301c5-c5eb-479e-b2f0-287d4c572116" name="Changes" comment="" />
+      <created>1653756026762</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653756026762</updated>
+      <workItem from="1653756027919" duration="13000" />
+    </task>
+    <servers />
+  </component>
+</project>

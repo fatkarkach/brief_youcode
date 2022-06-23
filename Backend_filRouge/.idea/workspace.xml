@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9febc723-eff8-4020-8209-210b5e13d157" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../backend_brief_6/.idea/backend_brief_6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fil_rouge/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fil_rouge/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fil_rouge/babel.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fil_rouge/jsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fil_rouge/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fil_rouge/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fil_rouge/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fil_rouge/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fil_rouge/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fil_rouge/src/assets/client.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fil_rouge/src/assets/gradient.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fil_rouge/src/assets/image1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fil_rouge/src/assets/image2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fil_rouge/src/assets/image3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fil_rouge/src/assets/image4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fil_rouge/src/assets/image5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fil_rouge/src/assets/image6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fil_rouge/src/assets/imgl.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fil_rouge/src/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fil_rouge/src/assets/logo1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fil_rouge/src/components/HelloWorld.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fil_rouge/src/components/NavbarUser.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fil_rouge/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fil_rouge/src/router/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fil_rouge/src/view/Achat.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fil_rouge/src/view/Home.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fil_rouge/src/view/Partenaire.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fil_rouge/src/view/Suivi_benefices.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fil_rouge/src/view/boutiques.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fil_rouge/src/view/commandes.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fil_rouge/src/view/demande.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fil_rouge/src/view/login.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fil_rouge/src/view/partenaire1.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fil_rouge/src/viewUser/achatsuser.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fil_rouge/src/viewUser/client.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fil_rouge/src/viewUser/homeuser.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fil_rouge/src/viewUser/payementuser.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fil_rouge/vue.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gestion_vols/.idea/gestion_vols.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gestion_vols/passager.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gestion_vols/reservation.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gestion_vols/script.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gestion_vols/utilisateurs.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gestion_vols/vols.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kalacloud-vue-chartjs/src/components/PlanetChart.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kalacloud-vue-chartjs/src/planet-data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wordpress-plugin/.idea/wordpress-plugin.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wordpress-plugin/wp-content/plugins/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wordpress-plugin/wp-content/plugins/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wordpress-plugin/wp-content/plugins/.idea/plugins.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wordpress-plugin/wp-content/plugins/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wordpress-plugin/wp-content/plugins/simple-contact-form/css/simple-contact-form.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="2AWDtbhcZgooUfLNNop9iy8b8q2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9febc723-eff8-4020-8209-210b5e13d157" name="Changes" comment="" />
+      <created>1655116663701</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1655116663701</updated>
+      <workItem from="1655116664839" duration="17000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

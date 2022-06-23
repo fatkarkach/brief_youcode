@@ -1,0 +1,275 @@
+*{
+    margin:0;
+    padding:0;
+}
+body
+{
+    background-image: url("../images/background.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 325%;
+}
+.bd-placeholder-img {
+  font-size: 1.125rem;
+  text-anchor: middle;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  user-select: none;
+}
+.border-bottom {
+    border-bottom: none!important; 
+}
+.link-secondary {
+    color: black;
+}
+.link-dark {
+    color: black;
+}
+.btn-primary {
+    background-color: #0d6efd;
+    border-color: #0d6efd;
+    color: white;
+}
+
+.titres {
+    margin-top: 80px;
+    color: black;
+    font-style: italic;
+}
+span{
+    color: white;
+}
+img#image_logo {
+    width: 120PX;
+    height: auto;
+}
+button.btn.btn-secondary.btn-lg {
+    MARGIN-TOP: 30px;
+   background-color: #0d6efd;
+   font-style: italic;
+   font: weight 700px;;
+   color:white;
+}
+@media only screen and (max-width: 600px){
+.titres {
+    margin-top: 14px;
+}
+}
+.row.row-cols-1.row-cols-md-3.g-4 {
+    margin-top: -40px;
+}
+
+form.row.g-3.needs-validation {
+    margin: auto;
+    margin-top:0px;
+}
+h1
+{
+    text-align: center;
+}
+div#forms_bt1 {
+    margin-left: 10px;
+}
+div#forms_bt2 {
+    margin-left: 10px;
+}
+input#button_left {
+    margin-right: 34px;
+}
+span
+{
+    color:black;
+    padding-right: 10px;
+}
+form#signup {
+    padding: 20px;
+    margin: auto;  
+  box-shadow: 5px 10px 8px 10px #888888;
+  border-radius: 31px;
+  height: 111%;
+  margin-top: -25px;
+
+}
+form#login {
+    padding: 20px;
+    margin: auto;  
+  box-shadow: 5px 10px 8px 10px #888888;
+  border-radius: 31px;
+}
+@media screen and (max-width: 992px)
+{
+    form#signup {
+
+      height: auto;
+    
+    }
+}
+h2
+{
+    line-height:2.2
+
+}
+.form-floating {
+    margin-top: 10px;
+    
+}
+.mb-4 {
+   margin-bottom: 0px!important;
+}
+.w-100 {
+    width: 50%!important;
+    margin-top: 10px;
+}
+img#dest {
+    width: 51px;
+    margin-left: 76px;
+    margin-top: -67px;
+}
+img#img_login {
+    width: 100px;
+    margin-top:-14px;
+}
+button#ajout {
+    background-color: #0d6efd;
+   font: weight 700px;;
+   color:white;
+   margin-left: 17%;
+}
+.alert-success {
+    color: black;
+    font-weight: 0px;
+    background-color: gainsboro;
+    border-color: gainsboro;
+}
+table
+{
+    display: inline-block;
+    vertical-align: top;
+    max-width: 150%;  
+    overflow-x: auto;
+    white-space: nowrap;
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+th
+{
+    font-weight:500!important;
+    text-align: center;
+
+}
+td
+{
+    text-align: center;
+}
+.btn-warning {
+    color: #212529;
+     background-color: white;
+    border-color: white; 
+}
+.btn-warning:hover
+{
+    color: #212529;
+    background-color: white;
+   border-color: white; 
+}
+a#vol {
+  font-weight: 500;
+  background: gainsboro;
+  border-radius: 14px;
+}
+h3.modal-title {
+    margin: auto;
+    font-style: italic;
+}
+span.glyphicon.glyphicon-remove {
+    padding: 0px;
+}
+img#trash {
+    margin-left: -26px;
+}
+input#recipient-name {
+    margin-left: 72px;
+}
+ label {
+    margin-left: 72px;
+}
+input{
+
+    margin: auto;
+    width: 100%;
+}
+.form-floating>label 
+{
+    left:-76px
+}
+/* h3#ajout {
+    margin-left: 123px;
+} */
+button#button_reserve {
+    height: 37px;
+    background-color: #0d6efd;
+    border-color: #0d6efd;
+    border:  1px solid #0d6efd;
+    color: white;
+    width: 98px;
+    border-radius: 10PX;
+}
+.btn-info {
+    color: #fff;
+    background-color: #0d6efd;
+    border-color: #0d6efd;
+    margin-top: 22px;
+}
+form.text-center.border.border-light.p-5 {
+    box-shadow: 5px 10px 8px 10px #888888;
+    border-radius: 31px;
+    WIDTH: 78%;
+    margin: auto;
+}
+button#passager {
+    margin-left: 16%;
+}
+table#table_passager {
+    padding-left:38%
+}
+/* .modal
+{
+    max-width: 50%;
+    max-height: 50%;
+    margin: auto;
+} */
+.form-group
+{
+    margin-bottom:0px;
+}
+.form-control
+{
+    width: 100%;
+}
+@media screen and (max-width: 992px){
+input#recipient-name {
+    margin: auto;
+}
+input#ajouter {
+    margin: auto;
+}
+}
+div#form_modal
+{
+    padding-left: 0px;
+}
+select {
+    width: 100%;
+    height: 28px;
+}
+table#table1 {
+    padding-left: 16%;
+}
+table#table3 {
+    padding-left: 17%;
+}
+table#table2 {
+    padding-left: 25%;
+}
+table#table4 {
+    padding-left: 9%;
+}
